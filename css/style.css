@@ -377,7 +377,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #252525;
+    background-color: green;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -386,7 +386,7 @@ button {
 
 .read_bt a:hover {
     color: #ffffff;
-    background-color: #f5ddb6;
+    background-color: orangered;
 }
 
 
@@ -604,7 +604,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #363636;
+    background-color: green;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -614,7 +614,7 @@ button {
 
 .readmore_bt a:hover {
     color: #50504f;
-    background-color: #ffffff;
+    background-color: orangered;
 }
 
 
@@ -761,6 +761,12 @@ button {
     height: 35rem;
     margin: 10px 0;
     border-radius: 10px;
+}
+
+.contact-s .submit{
+    width: 100%;
+    border-radius: 10px;
+    font-size: 1.2rem;
 }
 
 
